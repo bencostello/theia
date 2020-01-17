@@ -2,9 +2,13 @@
 theia-ide installation
 
 This is how I installed Theia-Ide
+
 https://theia-ide.org/
+
 https://theia-ide.org/docs/
+
 https://github.com/eclipse-theia/theia
+
 
 
 To install this I just used a Vanilla 64bit Ubuntu 18.04.3 on a Digial Ocean VPS $20/month 4GB/2CPUs 80GB SSD 4TB transfer.
