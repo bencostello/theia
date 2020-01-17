@@ -1,12 +1,8 @@
 # theia
 theia-ide installation
-
 This is how I installed Theia-Ide
-
 https://theia-ide.org/
-
 https://theia-ide.org/docs/
-
 https://github.com/eclipse-theia/theia
 
 
